@@ -38,8 +38,8 @@
         <!-- Start Page loader  -->
         <div id="pageloader">   
             <div class="loader">
-				<audio src="./audio/preloader.mp3" autoplay="autoplay" loop="loop"></audio>
-                <img src="./images/progress.gif" alt="loader"/>
+				<audio  id="pretune" src="./audio/preloader.mp3"  preload="auto" autoplay="autoplay"></audio>
+                <img src="./images/progress.gif" onclick="document.getElementById('pretune').pause()"/>
 				
             </div>
         </div>
@@ -677,6 +677,7 @@
 
         <!--  Scroll top  -->
         <a href="#" class="scrollup"> <i class="fa fa-chevron-up"> </i> </a>
+		<a href="#" class="pause"><i class="fa fa-pause"></i></a>
 
         <!-- Plugins -->
 
