@@ -3,12 +3,12 @@
 1 - SKINS COLORS: To change the color replace the Skin CSS.
 
  Available skins colors:
- 
+
  default.css, blue.css, yellow.css, orange.css, red.css, purple.css, navy.css, wine.css, black.css, darkSea.css, wheat.css, green.css
-  
+
 =================================================*/
 
-@import url("color/default.css");    
+@import url("color/default.css");
 
 
 html, body {
@@ -330,7 +330,7 @@ input[type="color"]:focus,
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li.active {
     outline: 0;
-    background-color:transparent; 
+    background-color:transparent;
 	color:#FFF;
 }
 
@@ -365,24 +365,24 @@ input[type="color"]:focus,
 .slides,
 .flex-control-nav,
 .flex-direction-nav {
-	margin: 0; 
-	padding: 0; 
+	margin: 0;
+	padding: 0;
 	list-style: none;
 }
 
 .flexslider {
-	margin: 0; 
+	margin: 0;
 	padding: 0;
 }
 
 .flexslider .slides > li {
-	display: none; 
+	display: none;
 	-webkit-backface-visibility: hidden;
-} 
+}
 
 .flexslider .slides img {
-	width: 100%; 
-	display: block; 
+	width: 100%;
+	display: block;
 	height:630px;
 }
 
@@ -391,11 +391,11 @@ input[type="color"]:focus,
 }
 
 .slides:after {
-	content: "\0020"; 
-	display: block; 
-	clear: both; 
-	visibility: hidden; 
-	line-height: 0; 
+	content: "\0020";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
 	height: 0;
 }
 
@@ -432,13 +432,13 @@ html[xmlns] .slides {
  .flex-control-nav li a.flex-active{
  opacity: 1;
  }
- 
- 
+
+
  .flex-direction-nav .flex-prev:hover,
  .flex-direction-nav .flex-next:hover{
  	opacity: 1;
- } 
- 
+ }
+
 
 /*========================================================================*/
 /* Slider
@@ -525,8 +525,8 @@ html[xmlns] .slides {
  	background:url(../images/left.html) no-repeat left top ;
 	opacity:0.6;
  }
- 
-.homeslider .flex-direction-nav .flex-next{ 
+
+.homeslider .flex-direction-nav .flex-next{
  	position: absolute;
  	display:block;
  	right: 20px;
@@ -548,8 +548,8 @@ html[xmlns] .slides {
 	-moz-transition: all .3s ease-in-out;
 	-o-transition: all .3s ease-in-out;
 	transition: all .3s ease-in-out;
-} 
- 
+}
+
 .slides{
 	height:100%;
 	max-height:100%;
@@ -731,7 +731,7 @@ html[xmlns] .slides {
 	position:relative;
 	background:#F7F8F8;
 	padding:50px 0px 20px;
-	
+
 }
 
 .facts-detail{
@@ -883,7 +883,7 @@ html[xmlns] .slides {
 	padding: 0;
 	list-style: none;
 	position: relative;
-} 
+}
 
 .cv-timeline-main:before {
 	content: '';
@@ -913,17 +913,17 @@ html[xmlns] .slides {
 }
 
 .cv-timeline-main > li .c-date span:last-child {
-	font-size:15px; 
+	font-size:15px;
 	padding:15px 0px;
 	color: #575454;
 	font-weight:500;
-	line-height:20px; 
+	line-height:20px;
 	text-align: center;
-	text-transform:uppercase; 
+	text-transform:uppercase;
 }
 
 .cv-timeline-main > li:nth-child(odd) .c-date span:last-child {
-	color: #575454; 
+	color: #575454;
 }
 
 .cv-timeline-main > li .cv-detail {
@@ -935,7 +935,7 @@ html[xmlns] .slides {
 	font-weight: 300;
 	line-height:22px;
 	position: relative;
-	border-radius: 2px; 
+	border-radius: 2px;
 }
 
 .cv-timeline-main > li:nth-child(odd) .cv-detail {
@@ -949,7 +949,7 @@ html[xmlns] .slides {
 
 .cv-timeline-main h4 {
 	font-size: 15px;
-	margin: 10px 0px 20px 0px; 
+	margin: 10px 0px 20px 0px;
 }
 
 .cv-timeline-main > li .cv-detail:after {
@@ -988,7 +988,7 @@ html[xmlns] .slides {
 	margin: 0 0 0 -25px;
 }
 
-	
+
 
 /*========================================================================*/
 /*  Call To Action
@@ -1017,7 +1017,7 @@ html[xmlns] .slides {
 }
 
 .cta-slogan p span {
-	color: #19acca;
+	color: #24292d;
 	font-weight: 700;
 }
 
@@ -1186,7 +1186,7 @@ footer ul.footer-social li a:hover {
 
 footer ul.footer-social li:last-child a {
 	margin-right: 0px;
-}	
+}
 
 
 /*========================================================================*/
@@ -1331,7 +1331,7 @@ select:-moz-focusring {
 
 
 @media screen and (max-width: 1050px) {
-	
+
 .cv-timeline-main > li .c-date span:last-child {
 	font-size: 15px;
 }
@@ -1341,11 +1341,11 @@ select:-moz-focusring {
 
 
 @media screen and (max-width: 1028px) {
-	
+
 .intro-btn-main{
 	margin-top:30px !important;
 }
-	
+
 }
 
 
@@ -1353,7 +1353,7 @@ select:-moz-focusring {
 
 .about-media{
 	text-align:center;
-}	
+}
 
 .left{
 	padding-right:0px;
@@ -1385,7 +1385,7 @@ select:-moz-focusring {
 .about-media {
    text-align: center !important;
 }
-	
+
 .left{
 	padding-right:0px;
 }
@@ -1393,7 +1393,7 @@ select:-moz-focusring {
 .right{
 	padding-left:0px;
 }
-	
+
 .cv-timeline-main:before {
 	display: none;
 }
@@ -1437,8 +1437,8 @@ select:-moz-focusring {
 	float: right;
 	left: auto;
 	margin: -55px 5px 0 0px;
-}	
-	
+}
+
 
 
 @media screen and (max-width: 570px) {

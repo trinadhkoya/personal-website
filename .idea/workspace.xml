@@ -2,89 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59cce870-7a9d-4c0b-907d-49b69cf4d07b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadProLight/MyriadProLight.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadProLight/MyriadProLight.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadProLight/MyriadProLight.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadProLight/MyriadProLight.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadProLight/MyriadProLight.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadProSemiBold/MyriadProSemiBold.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadProSemiBold/MyriadProSemiBold.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadProSemiBold/MyriadProSemiBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadProSemiBold/MyriadProSemiBold.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadProSemiBold/MyriadProSemiBold.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebPro/MyriadWebPro.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebPro/MyriadWebPro.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebPro/MyriadWebPro.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebPro/MyriadWebPro.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebPro/MyriadWebPro.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebProBold/MyriadWebProBold.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebProBold/MyriadWebProBold.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebProBold/MyriadWebProBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebProBold/MyriadWebProBold.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebProBold/MyriadWebProBold.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebProItalic/MyriadWebProItalic.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebProItalic/MyriadWebProItalic.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebProItalic/MyriadWebProItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebProItalic/MyriadWebProItalic.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/MyriadWebProItalic/MyriadWebProItalic.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadProLight/MyriadProLight.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadProLight/MyriadProLight.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadProLight/MyriadProLight.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadProLight/MyriadProLight.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadProLight/MyriadProLight.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadProSemiBold/MyriadProSemiBold.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadProSemiBold/MyriadProSemiBold.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadProSemiBold/MyriadProSemiBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadProSemiBold/MyriadProSemiBold.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadProSemiBold/MyriadProSemiBold.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebPro/MyriadWebPro.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebPro/MyriadWebPro.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebPro/MyriadWebPro.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebPro/MyriadWebPro.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebPro/MyriadWebPro.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebProBold/MyriadWebProBold.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebProBold/MyriadWebProBold.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebProBold/MyriadWebProBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebProBold/MyriadWebProBold.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebProBold/MyriadWebProBold.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebProItalic/MyriadWebProItalic.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebProItalic/MyriadWebProItalic.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebProItalic/MyriadWebProItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebProItalic/MyriadWebProItalic.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/MyriadWebProItalic/MyriadWebProItalic.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular-2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular-3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular-4.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regulard41d.html" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change afterPath="$PROJECT_DIR$/images/about-me.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/color/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about-me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/progress.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/progress.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="506" column="40" lean-forward="false" selection-start-line="506" selection-start-column="40" selection-end-line="506" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="1125" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1480" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="222">
+              <caret line="146" column="57" selection-end-line="560" />
             </state>
           </provider>
         </entry>
@@ -94,7 +33,17 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>fa fa-pause</find>
+      <find>http://localhost:63342/trinadhkoya.github.io/images/about-me.png</find>
+      <find>linkedin</find>
+      <find>target</find>
+      <find>003a70</find>
+      <find>facebook</find>
+      <find>19acca</find>
     </findStrings>
+    <replaceStrings>
+      <replace>00598e</replace>
+      <replace>24292d</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,16 +51,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/color/default.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
@@ -119,20 +63,11 @@
     <option name="height" value="797" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,22 +80,32 @@
               <item name="trinadhkoya.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="trinadhkoya.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trinadhkoya.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trinadhkoya.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trinadhkoya.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/css/fonts" />
     </key>
@@ -177,9 +122,6 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -190,59 +132,80 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521339707615</updated>
+      <workItem from="1563456771272" duration="3008000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3008000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24929178" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32984293" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/images/slider4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/progress.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/right.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="506" column="40" lean-forward="false" selection-start-line="506" selection-start-column="40" selection-end-line="506" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/left.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/color/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="1125" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1480" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="377">
+          <caret line="1026" column="1" lean-forward="true" selection-start-line="1026" selection-start-column="1" selection-end-line="1026" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="146" column="57" selection-end-line="560" />
         </state>
       </provider>
     </entry>

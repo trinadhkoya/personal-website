@@ -10,15 +10,15 @@
 
 
 a{
-	color:#44BFD0;
+	color:#00598e;
 }
 
 ::selection {
-	background:#44BFD0;
+	background:#00598e;
 }
 
 ::-moz-selection{
-	background:#44BFD0;
+	background:#00598e;
 }
 
 textarea:focus,
@@ -37,54 +37,54 @@ input[type="search"]:focus,
 input[type="tel"]:focus,
 input[type="color"]:focus,
 .form-control:focus{
-    border: 2px solid #44BFD0;
+    border: 2px solid #00598e;
 }
 
 .btn-default:hover,.btn-default:active{
-	border-color:#44BFD0 !important;
-	color:#44BFD0;
+	border-color:#00598e !important;
+	color:#00598e;
 }
 
 .btn-primary:hover,.btn-primary:active,.btn-primary:focus{
-	color:#44BFD0;
+	color:#00598e;
 }
 
 .navbar {
-    background-color: #44BFD0;
+    background-color: #00598e;
 }
 
 .navbar-custom .nav li a {
-    border-top: 3px solid #44BFD0;
+    border-top: 3px solid #00598e;
 }
 
 .section-heading h2 {
-    color: #44BFD0;
+    color: #00598e;
 }
 
 .progress-bar {
-    background:#44BFD0;
+    background:#00598e;
 }
 
 .facts-detail span {
-    color:#44BFD0;
+    color:#00598e;
 }
 
 .service-box-icon {
-    background:#44BFD0;
+    background:#00598e;
 }
 
 .portfolio-filters li {
-    border: 2px solid #44BFD0;
+    border: 2px solid #00598e;
 }
 
 .portfolio-filters li:hover{
-    background-color: #44BFD0;
-    border-color:#44BFD0;
+    background-color: #00598e;
+    border-color:#00598e;
 }
 
 .portfolio-filters li.active{
-    background-color:#44BFD0;
-    border-color:#44BFD0;
+    background-color:#00598e;
+    border-color:#00598e;
 }
 
 .image-overlay{
@@ -92,24 +92,24 @@ input[type="color"]:focus,
 }
 
 .cv-timeline-main:before {
-    background:#44BFD0;
+    background:#00598e;
 }
 
 .cv-timeline-main > li .time-icon {
-    color: #44BFD0;
+    color: #00598e;
 }
 
 .cv-timeline-main h4 {
-    color: #44BFD0;
+    color: #00598e;
 }
 
 #testimonials .owl-controls .owl-page.active span {
-    background: #44BFD0;
+    background: #00598e;
 }
 
 .contact-address i {
-    border: 1px solid #44BFD0;
-    color: #44BFD0;
+    border: 1px solid #00598e;
+    color: #00598e;
 }
 
 .scrollup {
@@ -121,9 +121,9 @@ input[type="color"]:focus,
 }
 
 footer {
-    background:#44BFD0;
+    background:#00598e;
 }
 
 footer ul.footer-social li a:hover {
-    color: #44BFD0;
+    color: #00598e;
 }
